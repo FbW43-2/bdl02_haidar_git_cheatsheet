@@ -2,7 +2,7 @@
 
 ## 1. Navigate to your Git project folder
 
-use `cd` to move between folders
+use `cd` to move between folders, for example 
 
 ```
 cd workspce
