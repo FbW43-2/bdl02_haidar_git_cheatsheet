@@ -38,3 +38,8 @@ git init
 This command creates an empty Git repository.
 from now on we can make changes to our files and permanently save those changes.
 
+## 4. save changes 
+
+1. `git add .` or `git add -A`
+2. `git commit -m "reference to the changes"`
+3. `git push`
