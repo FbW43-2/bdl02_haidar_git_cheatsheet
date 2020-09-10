@@ -69,6 +69,8 @@ from now on we can make changes to our files and permanently save those changes.
 2. `git commit -m "reference to the changes"`
 Commits can be thought of as snapshots or milestones along the timeline of a Git project.
 
+You can also *quick commit* by running `git commit -am "reference message"`
+
 3. `git push` this command sends the committed changes to the server. It is used to upload local repository content to a remote repository. 
 
 
