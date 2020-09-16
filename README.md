@@ -74,5 +74,25 @@ You can also *quick commit* by running `git commit -am "reference message"`
 3. `git push` this command sends the committed changes to the server. It is used to upload local repository content to a remote repository. 
 
 
-change the setup from HTTPS to SSH
+## Common Options
+
+## 1. git branch
+List all of the branches 
+``git branch --list``
+
+
+
+
+git branch -d 
+Delete the specified branch. This is a “safe” operation in that Git prevents you from deleting the branch if it has unmerged changes.
+
+git branch -D 
+Force delete the specified branch, even if it has unmerged changes. This is the command to use if you want to permanently throw away all of the commits associated with a particular line of development.
+
+git branch -m 
+Rename the current branch to .
+
+ 
+git branch -a
+List all remote branches. 
 
