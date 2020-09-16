@@ -74,5 +74,5 @@ You can also *quick commit* by running `git commit -am "reference message"`
 3. `git push` this command sends the committed changes to the server. It is used to upload local repository content to a remote repository. 
 
 
-New changes added to test
+change the setup from HTTPS to SSH
 
