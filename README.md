@@ -81,13 +81,13 @@ List all of the branches
 ``git branch --list``
 
 
-
-
 git branch -d 
+
 Delete the specified branch. This is a “safe” operation in that Git prevents you from deleting the branch if it has unmerged changes.
 
+
 git branch -D 
-Force delete the specified branch, even if it has unmerged changes. This is the command to use if you want to permanently throw away all of the commits associated with a particular line of development.
+
 
 git branch -m 
 Rename the current branch to .
